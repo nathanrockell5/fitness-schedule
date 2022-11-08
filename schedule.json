@@ -1,0 +1,39 @@
+{
+   "daySections": [
+       {
+           "id": "b206aefe-0758-436a-bfc4-81188dab5ef7",
+           "name": "Monday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "f6b8ff9d-8107-47d2-adC4-4db1da158a67",
+           "name": "Tuesday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "50c73a77-96a1-4955-acd1-1ab8ce79265f",
+           "name": "Wednesday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "c77A89a0-5e63-4495-8a19-f987d3c38f2A",
+           "name": "Thursday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "c2aebba0-8f9e-4f52-9f28-e0d870aa800c",
+           "name": "Friday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "83c52138-da5F-40ba-9c75-dd2a0ccab6a7",
+           "name": "Saturday",
+           "ScheduleElements": []
+       },
+       {
+           "id": "32acfcb9-d344-4225-8ccf-100b082c7990",
+           "name": "Sunday",
+           "ScheduleElements": []
+       }
+    ]
+}

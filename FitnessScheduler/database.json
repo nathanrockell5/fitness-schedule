@@ -1,0 +1,1685 @@
+{
+    "sections": [{
+            "id": "6a298703-5194-4bc4-85fe-98af29933065",
+            "name": "Cardio",
+            "muscleGroup": [{
+                    "id": "ef71725c-ddbe-47f6-864c-88a621dd4408",
+                    "name": "Legs",
+                    "muscle": [{
+                        "id": "69b3de28-094a-427c-a25f-507cc251224e",
+                        "name": "Quads",
+                        "exercises": [{
+                                "id": "bfd85723-66fc-4ebf-9d34-a73f470a599a",
+                                "name": "Cycling",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Quads",
+                                    "Hamstrings"
+                                ],
+                                "secondarymuscles": [
+                                    "Calves"
+                                ],
+                                "steps": [
+                                    "Cycle on a bike"
+                                ],
+                                "equipment": "Cycling Machine"
+                            },
+                            {
+                                "id": "3D8C055C-6F9A-4044-B307-47629B2A6FA4",
+                                "name": "Running",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Quads",
+                                    "Hamstrings"
+                                ],
+                                "secondarymuscles": [
+                                    "Calves"
+                                ],
+                                "steps": [
+                                    "Run"
+                                ],
+                                "equipment": "Body Only"
+                            }
+                        ]
+                    }]
+                },
+                {
+                    "id": "3283E84C-F191-402E-87CC-F31F474DD960",
+                    "name": "Full Body",
+                    "muscle": [{
+                        "id": "F65835DE-6105-410D-BEF9-32F4B0EAB5C4",
+                        "name": "Full Body",
+                        "exercises": [{
+                            "id": "6F2A04A8-1ABA-4952-9202-3592E921ABD1",
+                            "name": "Rowing",
+                            "difficulty": "Beginner",
+                            "primarymuscles": [
+                                "Abdominals",
+                                "Back",
+                                "Quads",
+                                "Hamstrings"
+                            ],
+                            "secondarymuscles": [
+                                "Na"
+                            ],
+                            "steps": [
+                                "Row"
+                            ],
+                            "equipment": "Rowing Machine"
+                        }]
+                    }]
+                },
+                {
+                    "id": "7D5F33CA-CAAB-4DD2-83BD-84DB48D0B192",
+                    "name": "Core",
+                    "muscle": [{
+                        "id": "E4738A9C-8E16-4D27-8C1E-8C9ACBA03E44",
+                        "name": "Abdominals",
+                        "exercises": [{
+                            "id": "2F74634C-6E52-4A02-B98B-49AA05F3E367",
+                            "name": "Burpees",
+                            "difficulty": "Beginner",
+                            "primarymuscles": [
+                                "Abdominals",
+                                "Back",
+                                "Quads",
+                                "Hamstrings"
+                            ],
+                            "secondarymuscles": [
+                                "Na"
+                            ],
+                            "steps": [
+                                "Row"
+                            ],
+                            "equipment": "Body Only"
+                        }]
+                    }]
+                }
+            ]
+        },
+        {
+            "id": "7b607b13-567b-4a06-bf52-e5f968a9711a",
+            "name": "Strength",
+            "muscleGroup": [{
+                    "id": "1334f884-0052-44d0-aa0d-77681f0b76eb",
+                    "name": "Arms",
+                    "muscle": [{
+                            "id": "de36a87c-7c45-48d0-8a96-4f8420bf6322",
+                            "name": "Biceps",
+                            "exercises": [{
+                                    "id": "45ae5182-7354-449f-bd9f-e811c90b9f32",
+                                    "name": "Incline Hammer Curls",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Seat yourself on incline bench with dumbbell in each hand. Back press firmly against seat with feet flat on the floor.",
+                                        "Allow the dumbbells to hang straight down by your side, holding with a neutral grip",
+                                        "Initiate movement by flexing the elbow, keeping the upper arm stationary and breathe out",
+                                        "Continue to the top of the movement, then slowly return to start position while breathing in"
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "25d8bac6-ccf6-4259-a4cf-3d7f62d7947f",
+                                    "name": "Wide-grip Barbell Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand with your torso upright holding the barbell at the outer handle",
+                                        "Keep palm of your hands facing forward and elbows not flared",
+                                        "Keeping your upper arms stationary contract your biceps while breathing out",
+                                        "Continue movement until biceps are fully contracted and barbell is around shoulder height",
+                                        "Slowly lower the barbell whilst breathing in to finish exercise"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "51F4E4B1-5AE7-460B-8EF2-073AF1713727",
+                                    "name": "Close-grip Barbell Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand with your torso upright holding the barbell at the inner handle",
+                                        "Keep palm of your hands facing forward and elbows not flared",
+                                        "Keeping your upper arms stationary contract your biceps while breathing out",
+                                        "Continue movement until biceps are fully contracted and barbell is around shoulder height",
+                                        "Slowly lower the barbell whilst breathing in to finish exercise"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "913DC21E-6E0F-4402-B7BE-60F2AF026B00",
+                                    "name": "Barbell Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand with your torso upright holding the barbell at the neutral/middle handle",
+                                        "Keep palm of your hands facing forward and elbows not flared",
+                                        "Keeping your upper arms stationary contract your biceps while breathing out",
+                                        "Continue movement until biceps are fully contracted and barbell is around shoulder height",
+                                        "Slowly lower the barbell whilst breathing in to finish exercise"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "4412F42C-648D-4D0A-8913-C89504BC95F0",
+                                    "name": "EZ-Bar Spider Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Place bench at a secure 45 degree angle",
+                                        "Face towards the bench and lift EZ bar over the back of the headrest and pressing your torso and stomach against the backrest",
+                                        "Keeping your upper arms stationary contract your biceps while breathing out",
+                                        "Continue movement until biceps are fully contracted and barbell is near your chin",
+                                        "Slowly lower the barbell whilst breathing in to finish exercise"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "B80AC37B-D261-40AE-B5E0-8EDEFA2F946D",
+                                    "name": "Hammer Curls",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Either standing or seating, keep torso upright",
+                                        "With dumbbells held by your side with palms facing in",
+                                        "Alternately or simulataneously contract your biceps whilst not rotating palms and breating out",
+                                        "Continue movement until biceps are fully contracted and dumbbell is around shoulder height",
+                                        "Slowly lower the dumbbell whilst breathing in to finish exercise"
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "8876865D-2ECD-4648-8FCE-005655D4D75E",
+                                    "name": "Zottman Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand with torso upright with dumbbell in each hand held at arms length, keeping elbows in",
+                                        "With your upper arms stationary, contract your biceps as your breathe out",
+                                        "Continue until biceps are fully contracted and hold for a second",
+                                        "Rotate wrists so your palms are facing down, with biceps still full contracted",
+                                        "Slowly lower the dumbbell whilst breathing in, and turn wrists back to original position as they approach your thighs"
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "1C454AF6-AEBD-4C02-A1F5-2851A406FD25",
+                                    "name": "Concentration Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Sit on a bench with one dumbbell in front of you between your legs",
+                                        "Hold the dumbbell with your upper arm against your thigh",
+                                        "Contract your bicep whilst breathing out, keeping upper arm stationary and trying best not to swing",
+                                        "When bicep is fully contracted, slowly lower your arm whilst breating in, returning to original postion"
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "4AC6E53B-F491-487E-A175-5C7D3954F09B",
+                                    "name": "Machine Bicep Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Adjust seat and sit comfortably on the machine with your triceps flat against the padding",
+                                        "Grip the handles and contract biceps whilst breating out",
+                                        "When bicep is fully contracted, slowly lower your arm whilst breating in, returning to original postion"
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "5D37E1B0-7097-416A-A5FF-9B97A1DB2C89",
+                                    "name": "Overhead Cable Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand between cable machien with cable positions just above shoulder height",
+                                        "Whilst keeping elbows inline with the cables, contract biceps until cable handles are next to you head",
+                                        "When bicep is fully contracted, slowly lower your arm whilst breating in, returning to original postion"
+                                    ],
+                                    "equipment": "Cables"
+                                },
+                                {
+                                    "id": "4409C7EB-8EDD-4DE9-8337-612BD88703A8",
+                                    "name": "Cross-body Hammer Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand with torso upright with dumbbell in each hand held at arms length, keeping elbows in",
+                                        "Contract your biceps as your breathe out, bringing the dumbbell across your body to the opposing shoulder",
+                                        "Slowly lower the dumbbell whilst breathing in, and turn wrists back to original position as they approach your thighs"
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "35F7B724-2C7C-41B5-8A3B-777823418883",
+                                    "name": "Preacher Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Adjust seat and sit comfortably on the preacher curl seat with your triceps flat against the padding",
+                                        "Grip the handles and contract biceps whilst breating out, without flaring elbows",
+                                        "When bicep is fully contracted, slowly lower your arm whilst breating in, returning to original postion"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "9F9B37A0-07C3-40D1-971D-B6D7E4831DED",
+                                    "name": "Stand Biceps Cable Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        "Stand between cable machien with cable positions at the bottom",
+                                        "Whilst keeping elbows by your side, contract biceps until cable handles are by your shoulders",
+                                        "When bicep is fully contracted, slowly lower your arm whilst breating in, returning to original postion"
+                                    ],
+                                    "equipment": "Cables"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "715cc7eb-f901-4add-b4a7-f7f38c158767",
+                            "name": "Triceps",
+                            "exercises": [{
+                                    "id": "d8ffe325-6aa1-4f07-a992-2ff4c621e63a",
+                                    "name": "Tricep Dips",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Chest"
+                                    ],
+                                    "steps": [
+                                        "Hold you body at arms length with your arms nearly locked above the bars",
+                                        "Inhale as you lower yourself down, keeping your torso upright and elbows close to your body",
+                                        "When your arms reach a 90 degree angle, exhale as your push your body back up to the start position"
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "52fb795b-5804-4bdf-9a6c-ab269267d358",
+                                    "name": "EZ-bar Skullcrusher",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Laying on a bench using a close grip, hold the bar above your head.",
+                                        "As you breathe in, and keeping your arms stationary, bring the bar down moving your forearms in a semicircular motion until the bar reaches your forehead.",
+                                        "Breathe out, while returning the bar to the previous position reversing the action"
+                                    ],
+                                    "equipment": "EZ-Bar"
+                                },
+                                {
+                                    "id": "0785161c-2ff6-4f49-85a9-e6a0f45296cc",
+                                    "name": "Decline EZ-bar Skullcrusher",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Laying on a bench using a close grip, hold the bar above your head.",
+                                        "As you breathe in, and keeping your arms stationary, bring the bar down moving your forearms in a semicircular motion until the bar reaches your forehead",
+                                        "Breathe out, while returning the bar to the previous position reversing the action"
+                                    ],
+                                    "equipment": "EZ-Bar"
+                                },
+                                {
+                                    "id": "b2a50645-1e9d-4ea3-a3db-fea4d4b685d1",
+                                    "name": "Cable V-bar Push-down",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Postion yourself leaning slightly foreward using an overhand grip on the v-bar.",
+                                        "Using your triceps while breathing out, bring the bar down until it reaches your thighs and arms are perpendicular to the floor, keeping your upper arms stationary.",
+                                        "Hold at the contracted position for a moment and slowly move the v-bar back to the starting position while breathing in"
+                                    ],
+                                    "equipment": "Cable"
+                                },
+                                {
+                                    "id": "91822136-a298-41a5-af24-342f0a459a7a",
+                                    "name": "Single-arm Cable Triceps Extension",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Placing the cable in a high position, grip the handle using a supinated grip",
+                                        "Pull the handle down so that your upper arm and elbow are locked to the side of your body",
+                                        "While breating out and contracting the tricep, move the single handle attachment down to your side until your arm is fully extended, your upper arms should remain stationary",
+                                        "Slowly return handle to the startig positon as your breathe in"
+
+                                    ],
+                                    "equipment": "Cable"
+                                },
+                                {
+                                    "id": "7b81322d-9300-4ad9-b2a1-1f4329ee35bc",
+                                    "name": "Triceps Dumbbell Kickback",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Triceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Whilst holding a dumbbell by your side with your arm at an acute angle with your upper arm parallel to your side",
+                                        "Breathe out while you contract your arm pushing the tricep back, your arm should now be straight and parallel to your side",
+                                        "Breathe in as your return to your starting position"
+                                    ],
+                                    "equipment": "Dumbbell"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "26269abf-025c-4555-a357-e944d9e91c32",
+                            "name": "Forearms",
+                            "exercises": [{
+                                    "id": "75826109-b065-4040-80b1-f68ce17aa761",
+                                    "name": "Palm-down Wrist Curl",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "With you forearms resting perpendicular to a seat of a bench, hold the dumbbell with a pronated grip, your wrists should hang over the edge",
+                                        "Curl your wrist upwards while breathing out",
+                                        "Hold for a moment and breathe in as your return to the starting position"
+
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "7f634fa8-1e6b-48b4-8511-4b87a4e09c57",
+                                    "name": "Straight-bar Wrist Roll-up",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        "Holding the barbell directly infront of you, alternate turning your wrists, twisting the bar forewards or backwards"
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "cd972551-2c08-46b4-8ca8-41bf5d938bc1",
+                                    "name": "Dumbbell Farmer's Walk",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Core",
+                                        "Traps",
+                                        "Upper back",
+                                        "Shoulders"
+                                    ],
+                                    "steps": [
+                                        "Lift the dumbbells to your side",
+                                        "Walk forewards, keeping a strong grip of the dumbbells"
+                                    ],
+                                    "equipment": "Dumbbell"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "785565b3-994f-4cfb-95b0-598898a4628d",
+                    "name": "Back",
+                    "muscle": [{
+                            "id": "a42f6530-d3a1-484e-a88b-6ba2aa5db715",
+                            "name": "Lats",
+                            "exercises": [{
+                                    "id": "A8D32B50-88FD-489E-9F9E-063F2EFA8D39",
+                                    "name": "Muscle Up",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Shoulders",
+                                        "Core",
+                                        "Upperback",
+                                        "Chest"
+                                    ],
+                                    "steps": [
+                                        "Initiate a pull up whilst breating out, pulling your elbows down to your side",
+                                        "When you've reached the top position of the pull up, roll your shoulders foreward and push yourself up with a dip like action"
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "a7532bc3-9965-420e-8d7e-1212a708835d",
+                                    "name": "Pullups",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Shoulders",
+                                        "Core",
+                                        "Upperback"
+                                    ],
+                                    "steps": [
+                                        "Hang freely from a pull up bar with arms fully extended.",
+                                        "Whilst breathing out, flex your elbows and pull yourself up. Try not to swing or use momentum to complete the movement",
+                                        "Attempt to get your chin above your hands",
+                                        "Lower yourself to the starting position whilst breathing out."
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "517600AB-7D39-49DE-B7DE-044B1424F68C",
+                                    "name": "Weighted Pullups",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Shoulders",
+                                        "Core",
+                                        "Upperback"
+                                    ],
+                                    "steps": [
+                                        "Hang freely from a pull up bar with arms fully extended.",
+                                        "Whilst breathing out, flex your elbows and pull yourself up. Try not to swing or use momentum to complete the movement",
+                                        "Attempt to get your chin above your hands",
+                                        "Lower yourself to the starting position whilst breathing out."
+                                    ],
+                                    "equipment": "Plates"
+                                },
+                                {
+                                    "id": "d7c1e940-6a89-448f-8c1a-e62e07ce38fe",
+                                    "name": "Lat Pull-down",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Upper Back"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "3BCEAF85-9DC2-441F-8E79-C4C4F9DEAA3E",
+                                    "name": "Reverse-grip Lat Pull-down",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Upper Back"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "56954702-8C86-4714-ABF4-4E5FF838A7B5",
+                                    "name": "Shotgun Row",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Upper Back"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Cables"
+                                },
+                                {
+                                    "id": "337587E5-1255-4C8D-8F20-C759EC3926CE",
+                                    "name": "Machine Seated Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Lats",
+                                        "Biceps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Upper Back"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6a44ab0c-2a93-4222-8a74-4c48dce078f0",
+                            "name": "Middle Back",
+                            "exercises": [{
+                                    "id": "6a2490ec-38d8-4485-b34f-24deb00a1e30",
+                                    "name": "Bent Over Barbell Row",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Middle Back",
+                                        "Lats"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "ad129716-0820-4ac5-8060-84d9f82db60a",
+                                    "name": "One-arm Dumbbell Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Middle Back",
+                                        "Lats"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "73FC4713-4E1A-4352-9673-7E3753966E06",
+                                    "name": "T-Bar Row With Handle",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Middle Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "T-Bar"
+                                },
+                                {
+                                    "id": "415E920F-EBC2-4C81-8AF6-9213B19B01BD",
+                                    "name": "Incline Dumbbell Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Middle Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Biceps"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "E852ED9A-D557-46BB-BB94-E399D4765C5A",
+                                    "name": "Middle Back Shrug",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Middle Back"
+                                    ],
+                                    "secondarymuscles": [],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "94EED696-647B-45DC-8EDF-3A9B5FB73A25",
+                                    "name": "Smith Machine Bent Over Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Middle Back"
+                                    ],
+                                    "secondarymuscles": [],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3f3adc83-f10e-4e92-ad7b-94c200b8fb2b",
+                            "name": "Lower Back",
+                            "exercises": [{
+                                    "id": "432be544-0ca5-470f-9a5e-b98ca8c2bfb0",
+                                    "name": "Barbell Dead Lifts",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Lower Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Hamstrings",
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "a3ce0bdc-bc76-4741-bf95-1c3e31ace50e",
+                                    "name": "Dumbbell Dead Lifts",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Lower Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Hamstrings",
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "1D68B008-8A8D-426C-8FB3-095A7314AF91",
+                                    "name": "Back Extension",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Lower Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "0D077415-BB74-4A66-8FDE-8F696B7C48CB",
+                                    "name": "Superman Extensions",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Lower Back"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "0b32c562-3097-44e6-8053-2ea8ab0767f1",
+                            "name": "Traps",
+                            "exercises": [{
+                                    "id": "9f890ad0-3115-45df-ac0e-06f928325ac8",
+                                    "name": "Smith Machine Shrugs",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Traps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Smith Machine"
+                                },
+                                {
+                                    "id": "B379023A-36D1-4E6D-BAA3-48802EAF7141",
+                                    "name": "Standing Dumbbell Shrugs",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Traps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "C648B392-444D-40B3-9AF4-F9F725160C5A",
+                                    "name": "Standing Barbell Shrugs",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Traps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "A38C9910-2F32-40E5-AF58-49196F517237",
+                                    "name": "Standing Dumbbell Upright Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Traps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "EF90858F-834D-46BF-A817-217B7C8FE971",
+                                    "name": "Standing Barbell Upright Row",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Traps"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "625fb361-b8ca-413c-b025-c8c8658ded9d",
+                    "name": "Chest",
+                    "muscle": [{
+                        "id": "13b7829e-58a9-4eb4-8159-2e8b0a114e9f",
+                        "name": "Pectorals",
+                        "exercises": [{
+                                "id": "70176b16-6c4f-4217-8de1-61b675baa876",
+                                "name": "Dumbbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "F81C7266-CCE0-4D30-81B4-85C3CC6995A8",
+                                "name": "Incline Dumbbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "FC34E84A-81E7-46E3-B4C4-659992EE4548",
+                                "name": "Decline Dumbbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "269211f2-45ab-428f-b852-c4fc1dde7bd8",
+                                "name": "Pushups",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Body Only"
+                            },
+                            {
+                                "id": "D48EEA50-429B-436C-A0D4-5262E704CC7A",
+                                "name": "Close-grip Barbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "8100DF2F-5098-4B08-AF9F-25FF45BCD7B5",
+                                "name": "Normal-grip Barbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "1A08917C-8E6F-4889-8E3C-5B5937E612FF",
+                                "name": "Wide-grip Barbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "A825E1FC-CC63-41AD-B859-B7D0506E1EA0",
+                                "name": "Incline Barbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "3EADC4B8-3119-443E-A654-3A8B3EED6F2F",
+                                "name": "Decline Barbell Bench Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Triceps"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "c8cba508-cbe5-41e9-aa01-c8ae54954703",
+                                "name": "Incline Flys",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Cables"
+                            },
+                            {
+                                "id": "3e512635-ae4e-49f5-8d04-a9b3a580664c",
+                                "name": "Decline Flys",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Cables"
+                            },
+                            {
+                                "id": "7F472096-72E5-4F24-BFE2-B4FCCD246208",
+                                "name": "Dumbbell Flys",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "2F143A33-6822-4AAF-940F-FA94BF416FF6",
+                                "name": "Beginner Cable Crossovers",
+                                "difficulty": "Intermediate",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Cables"
+                            },
+                            {
+                                "id": "BFA817EC-A2C7-407D-A23F-96511A944EC7",
+                                "name": "Chest Dips",
+                                "difficulty": "Intermediate",
+                                "primarymuscles": [
+                                    "Pectorals"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Other"
+                            }
+                        ]
+                    }]
+                },
+                {
+                    "id": "4e512abe-bf5f-445a-9f1e-d2f62b32fa76",
+                    "name": "Core",
+                    "muscle": [{
+                            "id": "8379bc5e-9b52-4194-b95b-b57b1f03f893",
+                            "name": "Abdominals",
+                            "exercises": [{
+                                    "id": "ce19b194-b364-4d1d-8e43-91ab95206007",
+                                    "name": "Crunches",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "D4521BFF-3675-4AB9-AD62-25CBF5210893",
+                                    "name": "Bottoms Up",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "7D650360-73F9-4CF3-A57C-B5F56179B83C",
+                                    "name": "Dumbbell V-Sit Cross Jab",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbells"
+                                },
+                                {
+                                    "id": "D286F1F4-69C2-4EDC-9E8C-44169A546D09",
+                                    "name": "Standing cable low-to-high twist",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Cables"
+                                },
+                                {
+                                    "id": "62A9AB1D-6B04-4FC3-A56C-350E15E7BF73",
+                                    "name": "Cocoons",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                }
+
+                            ]
+                        },
+                        {
+                            "id": "4ca33b40-05de-401d-9014-8252b155c051",
+                            "name": "Obliques",
+                            "exercises": [{
+                                    "id": "009d94e1-8dab-4d52-8a52-688734f9ac3d",
+                                    "name": "Russian Twists",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Obliques"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "C013EB4D-FDA9-4A42-9EEB-32999E424E0C",
+                                    "name": "Cross Body Crunch",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Obliques"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "01AD1FBF-A9D5-474C-9B14-07100F35277B",
+                                    "name": "Single Arm High-cable Side Bend",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Obliques"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Abdominals"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Cables"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "891bf363-66d0-4d9c-b9e7-baca49df4f0c",
+                    "name": "Legs",
+                    "muscle": [{
+                            "id": "4ed266f3-0e6a-4b72-99a6-cc4b0fed435d",
+                            "name": "Quads",
+                            "exercises": [{
+                                    "id": "7054a9b3-c823-4244-9f63-9d04887cd26c",
+                                    "name": "Leg Press",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Quads",
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "08ED3F7A-7366-4FD7-826B-707029FF2C05",
+                                    "name": "Barbell Full Squat",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Quads",
+                                        "Hamstrings",
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "AE75BA7C-4548-44B7-BC2B-D736C0DBBC03",
+                                    "name": "Tire Flip",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Quads",
+                                        "Hamstrings",
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Calves",
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Tire"
+                                },
+                                {
+                                    "id": "E29244E6-2574-40BD-B01D-6D726635C098",
+                                    "name": "Leg Extensions",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Quads"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "be566355-a668-4bfe-a0d3-932ec19bca48",
+                            "name": "Hamstrings",
+                            "exercises": [{
+                                    "id": "f4ab7a3b-1d93-4693-b5fb-3031d536b67e",
+                                    "name": "Lying Leg Curls",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "D719AB77-EA1A-4B1B-A9D3-23D65FD7AF96",
+                                    "name": "Barbell Dead Lifts",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms",
+                                        "Lower Back"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "6B588A45-CE03-4CC0-8CF7-3CB5F88A9468",
+                                    "name": "Dumbbell Romanian Dead Lifts",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Dumbbell"
+                                },
+                                {
+                                    "id": "D50FC0D8-753D-4F56-A79A-D6F7EFD29046",
+                                    "name": "Sumo Dead Lifts",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "7C0959C6-BAEE-41B8-8B69-B2EFBB64F758",
+                                    "name": "Stiff-legged Dead Lifts",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "6B35C40B-B60B-461F-A8D6-D6ACAF103D36",
+                                    "name": "Power Clean",
+                                    "difficulty": "Advanced",
+                                    "primarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Forearms"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "caf1490a-9cd4-47cc-969a-a9edf37ac72c",
+                            "name": "Glutes",
+                            "exercises": [{
+                                    "id": "8f1232f1-8678-4ae3-93b9-b3f0c4bfe273",
+                                    "name": "Barbell Hip Thrusts",
+                                    "difficulty": "Intermediate",
+                                    "primarymuscles": [
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Hamstrings"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                },
+                                {
+                                    "id": "F77475BD-5846-49B5-A36E-FEE8F0FBDA45",
+                                    "name": "Single Leg Cable Hip Extension",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Cables"
+                                },
+                                {
+                                    "id": "B9C19E14-C054-4472-A312-BA11ED4CEAF6",
+                                    "name": "Glute Kickback",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "C61B4EA8-38CD-40F9-9ED4-8B95D476CB99",
+                                    "name": "Pull Through",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Glutes"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Cables"
+                                }
+
+                            ]
+                        },
+                        {
+                            "id": "bfcb8942-67e9-4c66-a6df-266ae582a273",
+                            "name": "Calves",
+                            "exercises": [{
+                                    "id": "b41b0090-465e-43c1-9ec9-05e281461a5e",
+                                    "name": "Smith Machine Calf Raises",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Smith Machine"
+                                },
+                                {
+                                    "id": "982012EA-BAB7-4F7A-A1DB-EC7C9B9E7856",
+                                    "name": "Standing Calf Raises",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Body Only"
+                                },
+                                {
+                                    "id": "2445A78D-5177-40A8-BAA7-DF145ADC8611",
+                                    "name": "Seated Calf Raises",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Machine"
+                                },
+                                {
+                                    "id": "30603329-CAF1-4413-A166-E7CB82C40673",
+                                    "name": "Barbell Seated Calf Raises",
+                                    "difficulty": "Beginner",
+                                    "primarymuscles": [
+                                        "Calves"
+                                    ],
+                                    "secondarymuscles": [
+                                        "Na"
+                                    ],
+                                    "steps": [
+                                        ""
+                                    ],
+                                    "equipment": "Barbell"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "b41b0090-465e-43c1-9ec9-05e281461a5e",
+                    "name": "Shoulders",
+                    "muscle": [{
+                        "id": "2a07a9d3-942c-4987-a2ef-d7aad5c79785",
+                        "name": "Shoulders",
+                        "exercises": [{
+                                "id": "87109390-367c-4331-babc-55c818e5400d",
+                                "name": "Seated Dumbbell Shoulder Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Front Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Lateral Deltoid",
+                                    "Rear Deltoid"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "b78dfc6a-ab71-42ff-868d-ec2024a86cf1",
+                                "name": "Lateral Side Raises",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Lateral Deltoid",
+                                    "Traps"
+                                ],
+                                "secondarymuscles": [
+                                    "Rear Deltoid",
+                                    "Forearms"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "84eb7c93-e31f-4ec0-b92b-e339998f785d",
+                                "name": "Standing Bent-over Lateral Raise",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Rear Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "2812A8F6-6152-4289-B645-6523B7B9FA3D",
+                                "name": "Single Arm Kettlebell Push",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Front Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Kettlebell"
+                            },
+                            {
+                                "id": "56ED231F-984A-4EAA-B06C-5386CE5F4FD2",
+                                "name": "Military Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Front Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Barbell"
+                            },
+                            {
+                                "id": "B1704296-6479-45CE-B0A3-BBF3006800F9",
+                                "name": "Car Driver",
+                                "difficulty": "Intermediate",
+                                "primarymuscles": [
+                                    "Front Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Plates"
+                            },
+                            {
+                                "id": "21A965B0-5280-42B1-80DA-1C05C006F04C",
+                                "name": "Arnold Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Front Deltoid",
+                                    "Lateral Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Dumbbells"
+                            },
+                            {
+                                "id": "2D5C69ED-D64C-4B45-857D-CEEACAFA04D5",
+                                "name": "Smith Machine Shoulder Press",
+                                "difficulty": "Beginner",
+                                "primarymuscles": [
+                                    "Front Deltoid",
+                                    "Lateral Deltoid"
+                                ],
+                                "secondarymuscles": [
+                                    "Na"
+                                ],
+                                "steps": [
+                                    ""
+                                ],
+                                "equipment": "Smith Machine"
+                            }
+                        ]
+                    }]
+                }
+            ]
+        }
+    ]
+}
